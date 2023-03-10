@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋🤓
+
+- I'm a software developer interested in security and package management 📦
+- ❤️  Rust & Nix
+- 🔑 [KeePassXC](https://github.com/keepassxreboot/keepassxc) [dev team](https://keepassxc.org/team/) 🔒
 
 <!--
 **louib/louib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
